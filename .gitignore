@@ -1,0 +1,7 @@
+/.metadata/
+.recommenders/
+*.classpath
+*.project
+busca-textual/.settings/
+calculador/.settings/
+threads/.settings/
